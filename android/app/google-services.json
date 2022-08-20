@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "852222996510",
+    "project_id": "exam-six-modul",
+    "storage_bucket": "exam-six-modul.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:852222996510:android:ff8c3428230273e12e3e0f",
+        "android_client_info": {
+          "package_name": "com.alix.flutter_exam_six_modul"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "852222996510-6mqertqksh52dj9n4oatnt32j5v2ruqs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCExTY6DodYVzi0p_JXBX_NtPInCJz_mm8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "852222996510-6mqertqksh52dj9n4oatnt32j5v2ruqs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
